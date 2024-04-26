@@ -7,5 +7,5 @@ The CMMR Laboratory at Michigan Tech is devoted to using computational simulatio
 
 The CMMR team uses state-of-the-art computational tools to achieve these goals, including Density Functional Theory, Molecular Dynamics, and Finite Element Analysis. 
 
-# Main purpose
+## Main purpose
 The main purpose of this repository is to distribute the LUNAR Python package for pre-processing and post-processing LAMMPS inputs and outputs. LUNAR is under active development with new releases every few months.
